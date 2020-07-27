@@ -18,6 +18,7 @@ html{
 
 body{
   font-family: 'Montserrat', sans-serif;
-  background-color:#5F5F5B;
+  background-color:#FBD5BB;
+  color:#100F0E;
 }
 `;
